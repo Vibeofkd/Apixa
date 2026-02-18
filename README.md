@@ -18,3 +18,19 @@ Asset Management: Support for multiple Stellar assets and tokens in pipelines.
 Monitoring & Logging: Track transaction status, pipeline execution, and errors in real-time.
 
 Composable Integrations: Easily connect with exchanges, wallets, and external APIs.
+
+Architecture Overview
+
+Apixa is designed as a modular, layered platform to ensure scalable and reliable Stellar network operations:
+
+Core Engine: Executes pipelines for Stellar transactions and orchestrates middleware deterministically.
+
+API Layer: Exposes RESTful endpoints for managing Stellar workflows and payments.
+
+Event Layer: Processes Stellar ledger events asynchronously, supporting triggers and automated flows.
+
+Data Layer: Integrates with Stellar Horizon, external wallets, and databases.
+
+Monitoring & Logging: Observability into transaction executions, pipeline performance, and errors.
+
+High-level Architecture Diagram:
