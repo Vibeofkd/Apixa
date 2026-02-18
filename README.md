@@ -1,20 +1,5 @@
-# Apixa
-Apixa — Modular API & Backend Orchestration Platform
+Apixa — Modular API & Backend Orchestration Platform for Stellar Network
 
-Apixa is a modular platform for building, managing, and scaling APIs and backend workflows. It enables teams to define request pipelines, orchestrate middleware, and handle events deterministically, providing a structured, composable approach to backend development.
+Apixa is a modular backend platform designed to build, manage, and scale APIs and workflows on the Stellar network. It enables teams to orchestrate payment flows, transaction pipelines, and smart integrations with Stellar’s decentralized ledger, providing a structured, composable approach to blockchain backend development.
 
-Apixa solves the problem of fragmented backend services and scattered logic by providing a unified engine for pipeline execution, middleware orchestration, and monitoring, while giving developers full control over flows and integrations.
-
-🚀 Core Features
-
-Composable request pipelines: Chain middleware and handlers for reusable workflows.
-
-Deterministic execution: Predictable request and event lifecycles with built-in error handling.
-
-Declarative routing & orchestration: Define routes, flows, and integrations via configuration.
-
-Modular governance over logic: Apply shared rules and policies across services.
-
-Protocol-agnostic API handling: Support REST, events, webhooks, and internal service calls.
-
-Web dashboard: Visualize flows, debug pipelines, and monitor metrics in real-time
+Apixa solves the problem of fragmented Stellar service integrations and scattered transaction logic by providing a unified engine for pipeline execution, middleware orchestration, and event handling, while giving developers full control over payment flows, asset transfers, and integrations with Stellar’s network ecosystem.
